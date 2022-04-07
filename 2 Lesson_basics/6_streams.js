@@ -16,3 +16,8 @@ writeStream.write('\nNew Chunk\n');
 writeStream.write(chunk);
 });
 
+
+
+// piping 
+
+// readStrem.pipe(writeStream);
